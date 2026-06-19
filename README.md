@@ -1,4 +1,4 @@
-# Hi, I'm Natalie 👋
+# Hey There! I'm Natalie 👋
 
 Human-Computer Interaction student at NJIT interested in designing and researching technology that supports trust, wellbeing, and meaningful human experiences.
 
