@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Natalie 👋
 
-<!--
-**madebynatalie/madebynatalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Human-Computer Interaction student at NJIT interested in designing and researching technology that supports trust, wellbeing, and meaningful human experiences.
 
-Here are some ideas to get you started:
+My interests include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Human-AI Interaction
+- UX Research
+- Product Design
+- Ethical & Persuasive Technology
+- Sustainable Computing
+---
+## Research Interests
+
+🧠 Human-AI Interaction
+
+🤖 AI Transparency & Trust
+
+📱 Digital Wellbeing
+
+🎨 User Experience Design
+
+🌱 Sustainable Technology
+
+---
+
+## Beyond Tech
+
+📚 A lifelong reader
+
+📸 Photography enthusiast
+
+🎵 Music collector
+
+🌎 Curious about culture, design, and the ways people make meaning through technology
